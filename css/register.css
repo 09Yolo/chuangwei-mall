@@ -1,0 +1,387 @@
+.register_header {
+	width: 100%;
+	height: 100px;
+	background: #fff;
+	box-shadow: 0 0 20px -4px rgba(0, 0, 0, .2);
+}
+
+.register_top {
+	width: 1090px;
+	margin: 0 auto;
+}
+
+.register_top_left img {
+	width: 266px;
+	height: auto;
+	margin-top: 35px;
+}
+
+.register_top_rigth {
+	float: right;
+	line-height: 100px;
+	font-size: 14px;
+}
+
+.register_top_rigth a {
+	color: #e83733;
+	display: inline-block;
+}
+
+.regist_main {
+	width: 540px;
+	height: 550px;
+	margin: 30px auto;
+	border-radius: 20px;
+	box-shadow: 0 0 20px -4px rgba(0, 0, 0, .2);
+	background: #fff;
+	position: relative;
+}
+
+.main_content {
+	position: absolute;
+	width: 450px;
+	height: 400px;
+	/* background: #0066EE; */
+	top: 30px;
+	left: 45px;
+}
+
+.plandespeed {
+	width: 100%;
+	height: 120px;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+.regist_slip{
+	width: 100%;
+	height: 5px;
+	position: relative;
+	top: 21px;
+	background: #eff3f8;
+}
+.plandespeed ul{
+	padding: 0;
+}
+.plandespeed ul li{
+	width: 150px;
+	height: 74px;
+	text-align: center;
+	float: left;
+	position: relative;
+}
+
+.plandespeed ul li span{
+	width: 34px;
+	height: 34px;
+	line-height: 34px;
+	font-size: 18px;
+	position: relative;
+	margin: 0 auto;
+	display: block;
+	background: #EFF3F8;
+	border-radius: 50%;
+	transition: all 0.7s;
+	color: #999;
+}
+.plandespeed ul li p{
+	font-size: 14px;
+	color: #999;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.regist_con{
+	width: 450px;
+	height:260px;
+	display: block;
+	clear: both;
+}
+.input_block{
+	width: 450px;
+	height: 86.7px;
+	margin-bottom: 20px;
+}
+.sept_input{
+	width: 450px;
+	height: 55px;
+	position: relative;
+	border: 1px solid #E5E5E5; 
+}
+.login_test{
+	width: 450px;
+	height: 26.7px;
+	color: #ccc;
+	padding-top: 2px;
+	clear: both;
+}
+.sept_input img{
+	width: 22px;
+	height: 22px;
+	position: absolute;
+	top: 20px;
+	left: 10px;
+	color: #dadada;
+}
+
+.input_block input{
+	height: 55px;
+	font-size: 14px;
+	 padding: 0 37px; 
+	 width: 203px;
+	 float: left;
+	 border-radius: 3px 0 0 3px;
+	 border-right: 0;
+	 border: 0;
+}
+.sept_input_num{
+	height: 55px;
+	line-height: 55px;
+	width: 160px;
+	font-size: 14px;
+	color: #2E8AE4;
+	border-radius: 0 3px 3px 0;
+	border-left: 0;
+	text-align: right;
+	padding-right: 10px;
+	display: inline-block;
+	position: relative;
+}
+.sept_input_num span{
+	width: 64px;
+	height: 30px;
+	margin-bottom: 3px;
+	border: 1px solid #000000;
+	margin-top: 5px;
+	position: relative;
+	left: 0;
+	top:10px;
+	display: inline-block;
+}
+.sept_input_num span p{
+	position: relative;
+	top: -15px;
+	left: -15px;
+}
+#huan{
+	display: inline-block;
+	margin-left: 5px;	
+	color: #000000;
+}
+.login_test img{
+	width: 18px;
+	height: 18px;
+	margin-right: 3px;
+	vertical-align: -1px;
+}
+.sept_input_number{
+	width: 265px;
+	border-radius: 3px 0 0 3px;
+	float: left;	border-right: 0;	border: 0;
+}
+.butcode{
+	width: 111px;
+	height: 55px;
+	border-left: 0;
+	border-radius: 0 3px 3px 0;
+	outline: none;
+	border: 0;
+	cursor: pointer;
+	margin-left: 62px;
+}
+.but_next{
+	width: 100%;
+	text-align: center;
+}
+.step_next{
+	width: 450px;
+	height: 52px;
+	color: #fff;
+	background: #2E8AE4;
+	border: 0;
+	display: inline-block;
+	/* border-radius: 3px; */
+	margin: 0 10px;
+	font-size: 14px;
+	margin-top: 475px;
+	transition: all,0.5s;
+	outline: none;
+	cursor: pointer;
+}
+.step_next2{
+	width: 450px;
+	height: 52px;
+	color: #fff;
+	background: #2E8AE4;
+	border: 0;
+	display: inline-block;
+	/* border-radius: 3px; */
+	margin: 0 10px;
+	font-size: 14px;
+	margin-top: 430px;
+	transition: all,0.5s;
+	outline: none;
+	cursor: pointer;
+}
+.register_footer{
+	width: 100%;
+	height: 100px;
+	background: #fff;
+}
+.regist_foot{
+	width: 1210px;
+	margin: 0 auto;
+	text-align: center;
+}
+.regist_foot ul{
+	height: 20px;
+	padding: 30px 0 5px 0;
+	display: inline-block;
+}
+.regist_foot ul li{
+	float: left;
+	padding: 0 5px;
+	color: #999;
+}
+.regist_foot p{
+	color: #999;
+}
+
+.record_main{
+	width: 1090px;
+	height: 550px;
+	margin: 10px auto;
+	position: relative;
+	box-shadow: 0 0 50px -10px rgba(0,0,0,0.2);
+}
+.record_left{
+	float: left;
+}
+.record_left img{
+	width: 690px;
+	height: 550px;
+}
+.record_right{
+	height: 490px;
+	float: left;
+	padding: 30px;
+	background: #fff;
+}
+.vip{
+	height: 40px;
+	margin: 20px 0 30px 0;
+}
+.vip li{
+	float: left;
+	font-size: 24px;
+	margin: 0 40px 0 0;
+	padding: 2px 0;
+	position: relative;
+	color: #000000;
+}
+.vip_main{
+	width: 100%;
+	margin-top: 10px;
+}
+.vip_main_input{
+	margin-top: 15px;
+}
+.main_input_border{
+	width: 310px;
+}
+.vip_main_input input{
+	height: 45px;
+	border: 1px solid#E5E5E5;
+	border-radius: 3px;
+	padding: 0 10px;
+	font-size: 14px;
+	outline: none;
+}
+.main_input_border2{
+	width: 150px;
+	float: left;
+	border-radius: 3px 0 0 3px;
+	border-right: 0;
+}
+.vip_span{
+	width: 150px;
+	height: 45px;
+	border: 1px solid #E5E5E5;
+	border-left: 0;
+	display: inline-block;
+	padding-right: 10px;
+	text-align: right;
+	font-size:14px;
+	color: #2E8AE4;
+	border-radius: 0 3px 3px 0;
+}
+.vip_span p{
+	position: relative;
+	top: 13px;
+	left: -35px;
+}
+.vip_span p,.vip_span a{
+	display: inline-block;
+	margin-left: 5px;
+}
+
+.vip_span a{
+	display: inline-block;
+	left: -20px;
+	top: 14px;
+	position:relative;
+}
+.vip_record{
+	margin-top: 15px;
+}
+.blue_but{
+	width: 100%;
+	height: 45px;
+	background: #2E8AE4;
+	color: #fff;
+	border: 0;
+	margin-top: 30px;
+	transition: all,0.5s;
+	outline: none;
+	cursor: pointer;
+}
+.record_remember{
+	margin-top: 7px;
+}
+.remeber_choose{
+	float: left;
+	color: #999;
+}
+.check{
+	width: 15px;
+	height: 15px;
+	margin-right: 5px;
+	border: 1px solid#f0f0f0;
+	vertical-align: middle;
+}
+.record_forget{
+	float: right;
+	color: #666;
+}
+.record_forget a{
+	display: inline-block;
+}
+.regist_last_step{
+	display: none;
+	clear: both;
+}
+.regist_suc{
+	width: 450px;
+	height: 180px;
+	margin: 0 0 40px 0;
+	text-align: center;
+	/* background: #0060FF; */
+}
+.regist_suc img{
+	width: 80px;
+	height: 80px;
+}
+.regist_suc p{
+	font-size: 14px;
+}
+.suc_last a{
+	color: #E83733;
+}

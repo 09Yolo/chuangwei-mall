@@ -1,0 +1,2 @@
+var cartList = []
+var goodsSelect = []
